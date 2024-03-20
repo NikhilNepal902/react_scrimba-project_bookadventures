@@ -1,7 +1,7 @@
 export default [
   {
     id: 1,
-    img: "/image/perfect_run.jpg",
+    img: "https://i.ibb.co/Hntd0Yj/mother-of-learning.jpg",
     title: "Mother of Learning",
     author: "Domagoj Kurmaic",
     rating: 4.83,
@@ -11,7 +11,7 @@ export default [
   },
   {
     id: 2,
-    img: "https://pic.nnpl.repl.co/book/perfect_run.jpg",
+    img: "https://i.ibb.co/Pmhwff2/perfect-run.jpg",
     title: "The Perfect Run",
     author: "Maxime J. Durand",
     rating: 4.81,
@@ -21,7 +21,7 @@ export default [
   },
   {
     id: 3,
-    img: "https://pic.nnpl.repl.co/book/solo_leveling.jpg",
+    img: "https://i.ibb.co/X8wg4Sj/solo-leveling.jpg",
     title: "Solo Leveling",
     author: "Chugong",
     rating: 4.52,
@@ -31,7 +31,7 @@ export default [
   },
   {
     id: 4,
-    img: "https://pic.nnpl.repl.co/book/shadow_slave.jpg",
+    img: "https://i.ibb.co/sq9Vhsf/shadow-slave.jpg",
     title: "Shadow Slave",
     author: "Guiltythree",
     rating: 4.74,
