@@ -1,7 +1,7 @@
 export default [
   {
     id: 1,
-    img: "https://pic.nnpl.repl.co/book/mother_of_learning.jpg",
+    img: "/image/perfect_run.jpg",
     title: "Mother of Learning",
     author: "Domagoj Kurmaic",
     rating: 4.83,
